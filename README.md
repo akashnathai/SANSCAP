@@ -55,7 +55,6 @@ The goal is to evaluate:
 
   * 🖼️ 1 image
   * 📝 5 ground-truth Sanskrit captions
-  * 📝 1x5 = 5 caps
 
 Dataset size:
 
